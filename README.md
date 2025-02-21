@@ -1,2 +1,2 @@
 # 📩 Cold-Email-Generator
-🚀 Automate personalized cold emails using AI-powered retrieval-augmented generation (RAG) and LangChain.
+🚀 AI-powered Cold Email Generator using LangChain, Groq & Streamlit. Automate outreach with smart, personalized emails!"
