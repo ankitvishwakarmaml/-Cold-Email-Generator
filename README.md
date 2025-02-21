@@ -19,7 +19,7 @@ pip install uv
 Then, clone this repository and install dependencies:
 
 ```sh
-git clone https://github.com/your-username/cold-email-generator.git
+[git clone https://github.com/ankitvishwakarmaml/cold-email-generator.git]
 cd cold-email-generator
 uv python install 3.12
 uv venv
